@@ -1,5 +1,3 @@
-#Reto en clase n°6
-
 principio = 10
 final = 30
 incremento = 2

@@ -1,5 +1,3 @@
-#Reto en clase n°4
-
 nombre1 = input(f"Ingresar nombre del paciente 1")
 peso1 = input(f"Ingresar peso del paciente 1")
 edad1 = input(f"Ingresar edad del paciente 1")

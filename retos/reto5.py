@@ -1,5 +1,3 @@
-#Reto en clase n°5
-
 def numeroprimo(numero):
     if numero < 2:
         return False
